@@ -1,0 +1,23 @@
+body {
+    background-color: taupe;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    transition: color 5s;
+    color: #ffffff;
+}
+
+h1:hover {
+    color: #000000;
+}
+
+h6 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: serif;
+}

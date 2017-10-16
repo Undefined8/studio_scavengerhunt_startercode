@@ -35,47 +35,47 @@ skills on topics covered in previous years of ScriptEd years.
 
 ### HTML
 
-- [ ] `1pt` Create an `index.html` file in your fork of this repo and add the
+- [x] `1pt` Create an `index.html` file in your fork of this repo and add the
   following html to it:
-- [ ] `1pt` The title of the page should be "ScriptEd Scavengers!"
-- [ ] `1pt` There should be a header on the page that contains the text "Hello
+- [x] `1pt` The title of the page should be "ScriptEd Scavengers!"
+- [x] `1pt` There should be a header on the page that contains the text "Hello
   Studio!"
-- [ ] `1pt` There should be a smaller header on the page that contains you and your
+- [x] `1pt` There should be a smaller header on the page that contains you and your
   partner's names.
-- [ ] `1pt` Add a paragraph element with a paragraph of text from <lipsum.com>.
+- [x] `1pt` Add a paragraph element with a paragraph of text from <lipsum.com>.
 
 ### CSS
 
-- [ ] `1pt` Create an `index.css` file.
-- [ ] `1pt` Link the css file from the html file.
-- [ ] `5pt` The headers on the page should be centered, but not the other text on the
+- [x] `1pt` Create an `index.css` file.
+- [x] `1pt` Link the css file from the html file.
+- [x] `5pt` The headers on the page should be centered, but not the other text on the
   page.
-- [ ] `1pt` The headers should be in a [sans serif font] and the rest of the text
+- [x] `1pt` The headers should be in a [sans serif font] and the rest of the text
   should be a [serif font].
-- [ ] `1pt` The page should have a [taupe] background.
-- [ ] `10pt` Using CSS animate the header text to slowly change font color.
+- [x] `1pt` The page should have a [taupe] background.
+- [x] `10pt` Using CSS animate the header text to slowly change font color.
 
 ### JavaScript & jQuery
 
-- [ ] `1pt` Create an `index.js` file.
-- [ ] `1pt` Import your js file from your html file.
-- [ ] `1pt` Import a jQuery library from you html file. _Note your `index.js` file
+- [x] `1pt` Create an `index.js` file.
+- [x] `1pt` Import your js file from your html file.
+- [x] `1pt` Import a jQuery library from you html file. _Note your `index.js` file
   will use jQuery so import order matters._
 
 #### Objects & Variables
 
-- [ ] `1pt` Create a variable `num` set to a random integer between 1 and 100.
-- [ ] `1pt` Create a string `now` set to the current time and date.
-- [ ] `3pt` Create an array `names` set to strings of the first names of all of
+- [x] `1pt` Create a variable `num` set to a random integer between 1 and 100.
+- [x] `1pt` Create a string `now` set to the current time and date.
+- [x] `3pt` Create an array `names` set to strings of the first names of all of
   the students in the class.
-- [ ] `5pt` Create an object `teachers` mapping all of the teachers' first names
+- [x] `5pt` Create an object `teachers` mapping all of the teachers' first names
   to an array of their last names.
 
 #### Functions
 
-- [ ] `1pt` Create a function `log` that takes a single argument and logs it
+- [x] `1pt` Create a function `log` that takes a single argument and logs it
   using [`console.log`].
-- [ ] `1pt` Create a function `randInt` that takes two arguments: a min and a
+- [x] `1pt` Create a function `randInt` that takes two arguments: a min and a
   max and returns an integer between them.
 - [ ] `10pt` Create a function `numberWords` that take a number and returns a
   string of that number represented in english words.
